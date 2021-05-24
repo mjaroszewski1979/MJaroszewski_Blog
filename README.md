@@ -1,4 +1,4 @@
-## <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/dog.png">  &nbsp; MJaroszewski Blog
+## <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/bulb.png">  &nbsp; MJaroszewski Blog
 ### This is an application build with one of the fastest Python web frameworks - FastAPI. In fact, its speed is at par with Node.js and Go, it also creates plugins easily using dependency injection. 
 --------------------------------------------------
 
