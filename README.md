@@ -7,9 +7,9 @@
 * Creating, updating, deleting and displaying posts
 * OAuth2 and JWT "password flow", which involves generating security tokens called bearer tokens &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/security.png">
 * To gain access to secured resources client/user must send a username(email address) and password fields as form data.
-* Advanced HTML and CSS minification process aims to reduce webpage loading speed &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/speed.png">
-* CSS custom properties for fast and forward-looking design 
-* Moving the fetching data function to a background thread to avoid unnecessary delays during request handling &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/process.png">
+* Interactive API documentation and exploration web user interfaces provided by FastAPI &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/speed.png">
+* Basic HTML landing/index page with random background images fetched from Unsplash API 
+* Returns HTTP Exception with status code &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/process.png">
 
 
 
