@@ -11,7 +11,7 @@
 * Implementation of password hashing with bcrypt algorithm
 * Returns HTTP Exception with proper status code &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/process.png">
 * Basic HTML landing/index page with random background images fetched from Unsplash API 
-* Establishing connection with SQLAlchemy database
+* Establishing connection with SQLAlchemy database &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/database.png">
 * Leveraging the power of JSON schemas created with pydantic models
 
 
