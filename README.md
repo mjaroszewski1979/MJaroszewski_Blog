@@ -5,11 +5,14 @@
 ### Features
 * Fully responsive web design &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/boot1.png">
 * Creating, updating, deleting and displaying posts
-* OAuth2 and JWT "password flow", which involves generating security tokens called bearer tokens &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/security.png">
+* OAuth2 and JWT "password flow" which involves generating security tokens called bearer tokens &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/security.png">
 * To gain access to secured resources client/user must send a username(email address) and password fields as form data.
 * Interactive API documentation and exploration web user interfaces provided by FastAPI &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/speed.png">
+* Implementation of password hashing with bcrypt algorithm
+* Returns HTTP Exception with proper status code &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/process.png">
 * Basic HTML landing/index page with random background images fetched from Unsplash API 
-* Returns HTTP Exception with status code &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/process.png">
+* Establishing connection with SQLAlchemy database
+* Leveraging the power of JSON schemas created with pydantic models
 
 
 
