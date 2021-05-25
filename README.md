@@ -2,7 +2,7 @@
 ### This is an application build with one of the fastest Python web frameworks - FastAPI. In fact, its speed is at par with Node.js and Go, it also creates plugins easily using dependency injection. 
 --------------------------------------------------
 
-### Features
+### Features:
 * Fully responsive web design &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/boot1.png">
 * Creating, updating, deleting and displaying posts
 * OAuth2 and JWT "password flow" which involves generating security tokens called bearer tokens &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/security.png">
