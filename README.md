@@ -1,18 +1,15 @@
 ## <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/blog.png">  &nbsp; MJaroszewski Blog
-### This is an application build with one of the fastest Python web frameworks - FastAPI. In fact, its speed is at par with Node.js and Go, it also creates plugins easily using dependency injection. 
+### This is a high-performing application created with Python's FastAPI framework. The main functionalities include: creating, updating, deleting and displaying posts, registering and authenticating users. Posts section is protected with OAuth2 and JWT "password flow", which involves generating security tokens called bearer tokens. To gain access to secured resources client/user must send a username(email address) and password fields as form data.
 --------------------------------------------------
 
 ### Features:
 * Fully responsive web design &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/boot1.png">
-* Creating, updating, deleting and displaying posts
-* OAuth2 and JWT "password flow" which involves generating security tokens called bearer tokens &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/security.png">
-* To gain access to secured resources client/user must send a username(email address) and password fields as form data
+* Leveraging the power of JSON schemas created with pydantic models
 * Interactive API documentation and exploration web user interfaces provided by FastAPI &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/speed.png">
 * Implementation of password hashing with bcrypt algorithm
 * Returns HTTP Exception with proper status code &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/process.png">
 * Basic HTML landing/index page with random background images fetched from Unsplash API 
 * Establishing connection with SQLAlchemy database &nbsp; <img src="https://github.com/mjaroszewski1979/mjaroszewski1979/blob/main/database.png">
-* Leveraging the power of JSON schemas created with pydantic models
 
 
 
