@@ -4,9 +4,10 @@ from datetime import datetime, timedelta
 from fastapi import Depends, HTTPException, status
 import schemas
 from fastapi.security import OAuth2PasswordBearer
+from os import environ
 
-SECRET_KEY = "mysecretkey"
-ALGORITHM = "HS256"
+SECRET_KEY = environ.get('SECRET_KEY')
+ALGORITHM = environ.get('ALGORITHM')
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
 pwd_cxt = CryptContext(schemes=["bcrypt"], deprecated="auto")
